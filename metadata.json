@@ -1,0 +1,8 @@
+{
+  "name": "Billingku v2.2",
+  "description": "Sistem penagihan bulanan internet dan WiFi RT/RW Net modern dengan POS kasir, swipe to confirm, cetak struk thermal 58mm, kelola pelanggan, dan laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

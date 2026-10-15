@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana implementasi arsitektur Hybrid REST API & Dual-Endpoint: penanaman template default URL dan API Key bawaan, proteksi otorisasi PIN Admin pada menu Pengaturan koneksi, strategi sinkronisasi prioritas lokal dengan auto-failover ke cloud publik, serta tombol reset ke konfigurasi default tanam.",
+  "updatedAt": "2026-10-14T05:48:01.015420815Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
